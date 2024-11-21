@@ -12,7 +12,7 @@ public class Solution {
             //Complete this line
             //printing int with just 2 nums.
             System.out.printf("%-15s",s1);
-            System.out.printf("%-15s \n",x);
+            System.out.printf("%03d%-12s%n \n",x, "");
         }
         System.out.println("================================");
 
