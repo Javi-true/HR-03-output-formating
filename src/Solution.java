@@ -10,8 +10,8 @@ public class Solution {
             String s1=sc.next();
             int x=sc.nextInt();
             //Complete this line
-            System.out.printf("%15s",s1);
-            System.out.printf("%15s",x);
+            System.out.printf("%-15s",s1);
+            System.out.printf("%-15s \n",x);
         }
         System.out.println("================================");
 
